@@ -1,0 +1,12 @@
+ROBOT LOG ANALYSIS REPORT
+=========================
+
+Total events: 8
+INFO events: 4
+WARN events: 2
+ERROR events: 2
+
+ERROR DETAILS:
+--------------
+Left motor failure
+Camera connection lost

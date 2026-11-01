@@ -1,0 +1,8 @@
+2026-11-01 08:00:00 INFO Robot initialized
+2026-11-01 08:01:10 INFO Sensors connected
+2026-11-01 08:02:15 WARN Battery level below 30%
+2026-11-01 08:03:20 ERROR Left motor failure
+2026-11-01 08:04:00 INFO Emergency stop activated
+2026-11-01 08:05:10 ERROR Camera connection lost
+2026-11-01 08:06:00 WARN Temperature approaching limit
+2026-11-01 08:07:30 INFO Robot returned to charging station
